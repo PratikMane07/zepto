@@ -6,5 +6,11 @@ public class a
       
     }
 
+   public  void m2()
+   {
+
+
+  }
+
     
   }
